@@ -1,13 +1,12 @@
 ---
 name: Daily-Scrum-template
-about: Describe this issue template's purpose here.
+about: 데일리 스크럼 템플릿
 title: ''
 labels: 데일리-스크럼
 assignees: ''
 
 ---
 
-```markdown
 ## 1. 아젠다/결과/피드백
 
 | no | 아젠다 | 제안자 | 답변자 | 답변 내용 | 피드백 | 결과 |
@@ -37,4 +36,3 @@ assignees: ''
 | 내용 | 비고 | 종류 | 의사 결정자 | 논의 대상자 |
 |------|------|------|----------------|----------------|
 | [논의할 내용] | [관련 설명] | [구분] | [이름] | [이름] |
-```

@@ -1,13 +1,12 @@
 ---
 name: Sprint-Backlog-Template
-about: Describe this issue template's purpose here.
+about: 스프린트-백로그 템플릿
 title: ''
 labels: 스프린트-백로그
 assignees: ''
 
 ---
 
-```markdown
 ## 스프린트 백로그
 
 | 이름 (업무 항목)                     | 기간                               | 담당자 |
@@ -16,4 +15,3 @@ assignees: ''
 | [업무 이름 - 단계]                   | 2099년 00월 00일 → 2099년 00월 00일 | [이름] |
 | [업무 이름 - 단계]                   | 2099년 00월 00일 → 2099년 00월 00일 | [이름] |
 | [업무 이름 - 단계]                   | 2099년 00월 00일 → 2099년 00월 00일 | [이름] |
-```
