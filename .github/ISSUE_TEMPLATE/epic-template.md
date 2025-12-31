@@ -1,9 +1,9 @@
 ---
 name: Epic-Template
 about: 에픽 템플릿
-title: ''
-labels: ''
-assignees: hkjbrian
+title: "[EPIC] - "
+labels: EPIC
+assignees: ''
 
 ---
 
