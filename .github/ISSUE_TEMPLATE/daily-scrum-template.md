@@ -2,7 +2,7 @@
 name: Daily-Scrum-template
 about: 데일리 스크럼 템플릿
 title: "[Scrum] - "
-labels: 데일리-스크럼
+labels: ''
 assignees: ''
 
 ---
