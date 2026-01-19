@@ -2,7 +2,7 @@
 name: Epic-Template
 about: 에픽 템플릿
 title: "[EPIC] - "
-labels: ''
+labels: Epic
 assignees: ''
 
 ---

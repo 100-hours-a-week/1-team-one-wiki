@@ -2,7 +2,7 @@
 name: N회차-yyyy-mm-dd-pl-meeting
 about: PM 미팅 기록 템플릿
 title: ''
-labels: ''
+labels: Meeting
 assignees: ''
 
 ---
